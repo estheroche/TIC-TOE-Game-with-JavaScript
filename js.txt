@@ -1,0 +1,5 @@
+8/11/2022
+Java Script
+- it is a scripting language
+- it makes web apps interactive 
+- to create variables, we use the keyword 'var'
